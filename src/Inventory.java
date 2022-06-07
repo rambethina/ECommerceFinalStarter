@@ -24,6 +24,12 @@ public class Inventory {
         // READ FROM FILE
         // FOR EACH LINE THAT YOU READ FROM FILE
         // CALL BOOK CONSTRUCTOR THAT TAKES A STRING, IF YOU NOTICE IT WILL SPLIT THE STRING AND INITIALIZE DETAILS OF THE BOOK.
+        // refer to https://rambethina.github.io/java/mydoc_week_nine.html#working-with-files
+        // for simplicity, I would recommend providing the full path to the input file
+
+        // Look at SampleInput.txt for sample file
+
+
     }
 
     public Book searchBook(String isbnNumberInput) {
