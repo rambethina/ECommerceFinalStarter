@@ -1,5 +1,13 @@
 # ECommerceFinalStarter
 
+Initial setup
+* Click on Code button (Green Button)
+* Download Zip
+* Uncompress zip
+* Open IntelliJ, File -> Open and choose folder that you unzipped.
+* You may need to set your SDK, You may be prompted for this.
+* Right click on ECommerceMain and Run
+
 PART 1 - BASIC IMPLEMENTATION - YOU WILL BE ABLE TO ADD ONE BOOK TO YOUR CART.
 * Provide implementation for
   * Book(String lineFromFile)
